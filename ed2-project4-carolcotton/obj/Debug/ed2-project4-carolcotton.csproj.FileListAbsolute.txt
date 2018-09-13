@@ -1,0 +1,7 @@
+C:\Users\aluno\Desktop\ed2-project4-carolcotton\ed2-project4-carolcotton\bin\Debug\ed2-project4-carolcotton.exe.config
+C:\Users\Fernando Belmonte\Desktop\Carol\Carol - Cursos\4º semestre\ed2-project4-carolcotton\ed2-project4-carolcotton\bin\Debug\ed2-project4-carolcotton.exe.config
+C:\Users\Fernando Belmonte\Desktop\Carol\Carol - Cursos\4º semestre\ed2-project4-carolcotton\ed2-project4-carolcotton\bin\Debug\ed2-project4-carolcotton.exe
+C:\Users\Fernando Belmonte\Desktop\Carol\Carol - Cursos\4º semestre\ed2-project4-carolcotton\ed2-project4-carolcotton\bin\Debug\ed2-project4-carolcotton.pdb
+C:\Users\Fernando Belmonte\Desktop\Carol\Carol - Cursos\4º semestre\ed2-project4-carolcotton\ed2-project4-carolcotton\obj\Debug\ed2-project4-carolcotton.csprojResolveAssemblyReference.cache
+C:\Users\Fernando Belmonte\Desktop\Carol\Carol - Cursos\4º semestre\ed2-project4-carolcotton\ed2-project4-carolcotton\obj\Debug\ed2-project4-carolcotton.exe
+C:\Users\Fernando Belmonte\Desktop\Carol\Carol - Cursos\4º semestre\ed2-project4-carolcotton\ed2-project4-carolcotton\obj\Debug\ed2-project4-carolcotton.pdb
